@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "firstName": "thetoys",
+      "lastName": "wongchai",
+      "email": "thetoys0401@gmail.com",
+      "Telephone": "0623825945",
+      "Salary": "12000"
+    },
+    {
+      "id": 5,
+      "firstName": "ทอย",
+      "lastName": "และทอย",
+      "email": "thetoys0401@gmail.com",
+      "Telephone": "0623825977",
+      "Salary": "88200"
+    },
+    {
+      "id": 6,
+      "firstName": "thetoys",
+      "lastName": "wongchai",
+      "email": "thetoys0401@gmail.com",
+      "Telephone": "0623825945",
+      "Salary": "999999"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
